@@ -29,6 +29,7 @@ while True:
 		num1=float(input("Bir sayı giriniz: "))
 		num2=float(input("Diğer sayıyı giriniz: "))
 		result=str(num1/num2)
+		print("Cevap "+result)
 	elif user_input == "üssü":
 		num1=float(input("Üssü alınacak sayıyı giriniz: "))
 		num2=float(input("Kaç üssü?: "))
